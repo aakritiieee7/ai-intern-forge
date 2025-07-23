@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				drdo: {
+					navy: 'hsl(var(--drdo-navy))',
+					'navy-light': 'hsl(var(--drdo-navy-light))',
+					gold: 'hsl(var(--drdo-gold))',
+					success: 'hsl(var(--drdo-success))',
+					warning: 'hsl(var(--drdo-warning))',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
