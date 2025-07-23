@@ -11,6 +11,8 @@ import AddIntern from "./pages/admin/AddIntern";
 import AssignMentor from "./pages/admin/AssignMentor";
 import AddMentor from "./pages/admin/AddMentor";
 import Certificates from "./pages/admin/Certificates";
+import Projects from "./pages/admin/Projects";
+import Analytics from "./pages/admin/Analytics";
 import InternRequests from "./pages/mentor/InternRequests";
 import OngoingProjects from "./pages/mentor/OngoingProjects";
 import NotFound from "./pages/NotFound";
@@ -77,6 +79,16 @@ const App = () => (
             <Route path="/admin/certificates" element={
               <ProtectedRoute requiredRole="admin">
                 <Certificates />
+              </ProtectedRoute>
+            } />
+            <Route path="/admin/projects" element={
+              <ProtectedRoute requiredRole="admin">
+                <Projects />
+              </ProtectedRoute>
+            } />
+            <Route path="/admin/analytics" element={
+              <ProtectedRoute requiredRole="admin">
+                <Analytics />
               </ProtectedRoute>
             } />
             
