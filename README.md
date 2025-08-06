@@ -56,7 +56,22 @@ To run the project locally:
 
 ## Project Preview
 
+Here are some screenshots showcasing the application's key interfaces:
 
+### Login Page
+![Login Page](hrmanagementsystem/assets/login.png)
+
+### Add Intern
+![Add Intern](hrmanagementsystem/assets/addintern.png)
+
+### Mentor View - New Requests
+![Accept Intern Request](hrmanagementsystem/assets/acceptintern.png)
+
+### Mentor View - Mark Project as Completed
+![Mark as Completed](hrmanagementsystem/assets/markascompleted.png)
+
+### Generate Certificate
+![Generate Certificate](hrmanagementsystem/assets/generatecertificate.png)
 ## Disclaimer
 
 This is a project I built under my internship at DRDO, and copying or plagiarizing is discouraged. It is not affiliated with or officially representing DRDO in any capacity.
