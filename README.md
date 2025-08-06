@@ -1,4 +1,4 @@
-# DRDO HR Management System
+# DRDO Intern Management System
 
 A smart, AI-enhanced internship management platform tailored for research organizations like DRDO.
 What once required endless paperwork and manual coordination is now streamlined into a few intelligent clicks.
