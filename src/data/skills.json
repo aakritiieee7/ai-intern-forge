@@ -1,0 +1,51 @@
+[
+    "python", "c", "c++", "java", "javascript", "typescript", "html", "css",
+    "react", "angular", "vue", "node.js", "express", "django", "flask",
+    "sql", "mongodb", "firebase", "postgresql", "redis",
+  
+    "machine learning", "deep learning", "neural networks", "tensorflow",
+    "pytorch", "keras", "scikit-learn", "pandas", "numpy", "matplotlib",
+    "data science", "data analysis", "data visualization", "nlp",
+    "computer vision", "openCV", "transformers", "bert", "gpt",
+  
+    "cybersecurity", "cryptography", "network security", "ethical hacking",
+    "penetration testing", "reverse engineering", "firewalls",
+    "zero trust architecture",
+  
+    "control systems", "embedded systems", "microcontrollers", "arduino",
+    "raspberry pi", "verilog", "vhdl", "fpga", "rtl design", "system verilog",
+  
+    "robotics", "ros", "robot operating system", "autonomous systems",
+    "path planning", "sensor fusion", "slam", "lidar", "imu",
+  
+    "signal processing", "dsp", "image processing", "matlab", "simulink",
+    "frequency analysis", "fourier transform", "filter design",
+  
+    "aerodynamics", "computational fluid dynamics", "cfd", "fluent",
+    "ansys", "openfoam", "wind tunnel testing", "propulsion", "combustion",
+  
+    "mechanical design", "solidworks", "catia", "autocad", "creo", "nx",
+    "ansys structural", "fea", "thermal analysis", "manufacturing",
+  
+    "electrical machines", "power electronics", "circuit analysis",
+    "electric vehicles", "battery systems", "bms", "power systems",
+    "smart grid", "hvac", "motor control",
+  
+    "materials science", "composites", "alloys", "semiconductors",
+    "nano materials", "metallurgy", "ceramics", "coating technologies",
+  
+    "blockchain", "distributed systems", "cloud computing", "aws",
+    "azure", "gcp", "devops", "docker", "kubernetes", "ci/cd",
+  
+    "internet of things", "iot", "iot security", "zigbee", "lora",
+    "edge computing", "wireless sensor networks",
+  
+    "simulation", "modeling", "system dynamics", "digital twin",
+  
+    "artificial intelligence", "reinforcement learning", "swarm intelligence",
+    "genetic algorithms", "fuzzy logic", "bayesian networks",
+  
+    "project management", "technical writing", "latex", "ms office",
+    "research", "patent drafting", "system design", "agile", "scrum"
+  ]
+  
