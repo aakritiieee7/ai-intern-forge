@@ -57,7 +57,7 @@ const AIMatchIntern = () => {
         formData.append('projectDescription', projectDescription);
 
         try {
-            // Send the resume and description to the backend mock AI service
+            // Send the resume and description to the backend AI service
             const response = await axios.post('/ai/match-intern', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',

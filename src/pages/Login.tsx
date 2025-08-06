@@ -134,7 +134,7 @@ const Login = () => {
               </Button>
             </form>
 
-            {/* Quick Login for Demo */}
+            {/* Demo Login */}
             <div className="space-y-3">
               <div className="relative">
                 <div className="absolute inset-0 flex items-center">

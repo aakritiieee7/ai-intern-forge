@@ -16,11 +16,11 @@ const Projects = () => {
     const loadProjects = () => {
       const projectsData = storageService.getProjects();
       setProjects(projectsData);
-      setTotalInterns(storageService.getInterns().length); // Fetch total interns
+      setTotalInterns(storageService.getInterns().length); 
     };
 
     loadProjects();
-  }, []); // Empty dependency array means this runs once on mount
+  }, []); 
 
   const getStatusBadge = (status: string) => {
     switch (status) {
